@@ -1,0 +1,24 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.about-image {
+  width: 200px;
+}
+
+.text {
+  color: #551e53;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.para {
+  color: #555555;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 2px;
+}

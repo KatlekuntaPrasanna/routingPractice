@@ -1,0 +1,17 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.text {
+  color: #551e53;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.container-image {
+  width: 300px;
+}

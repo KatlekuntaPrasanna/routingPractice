@@ -1,0 +1,17 @@
+.home-container {
+  height: 75vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home-image {
+  width: 300px;
+}
+
+.text {
+  color: #551e53;
+  font-size: 20px;
+  font-weight: 500;
+}
